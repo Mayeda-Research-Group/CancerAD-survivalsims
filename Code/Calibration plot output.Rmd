@@ -1,0 +1,92 @@
+---
+title: "Calibration plots"
+author: "Eleanor Hayes-Larson"
+date: "1/31/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, fig.width = 3)
+
+#------------------------------------------------------------------
+# Title: Calibration analysis of simulation output
+# Author: Eleanor Hayes-Larson
+#------------------------------------------------------------------
+
+#------------------------------------------------------------------
+# Load observed (calibration) data and sim model
+#------------------------------------------------------------------
+library(here)
+library(knitr)
+source(here("Code","Multistate model","Rate inputs.R"))
+source(here("Code","Multistate model","Model.R"))
+source(here("Code","Multistate model","Calibration plot function.R"))
+
+
+#------------------------------------------------------------------
+# Input all calibrated values
+#------------------------------------------------------------------
+
+S1demvals<-c(1,0.9,0.7, 0.5,0.3)
+S1mortvals<-c(1,0.9,0.7, 0.5,0.3)
+Sprevvals<-c(0.5, 0.4, 0.3, 0.2, 0.1, 0)
+typevals<-factor(c("all", "lung", "breast", "prostate"), levels = c("all", "lung", "breast", "prostate"))
+
+args<-expand.grid(S1demvals=S1demvals, S1mortvals=S1mortvals, Sprevvals=Sprevvals, typevals=typevals)
+args_short<-args[args$Sprevvals!=0 | (args$Sprevvals==0 & args$S1demvals==1 & args$S1mortvals==1),]
+row.names(args_short) <- NULL
+
+```
+
+This output shows the checks of rate ratios and all the calibration plots. For each scenario, examine the checks and calibration plots to ensure that the model performs as expected and is calibrated accurately. 
+
+
+
+```{r all, eval=TRUE, results='asis',echo=FALSE}
+
+#Loop over all scenarios and print output in HTML file. 
+
+
+for (i in 1:nrow(args_short)){
+
+          checks<-calib_plots(immort=0, dcanmort=1, ddemmort=1, SdemIRR=args_short$S1demvals[i], SmortIRR=args_short$S1mortvals[i], p_S=args_short$Sprevvals[i], cancertype=args_short$typevals[i])
+        
+                     
+             cat("### **Scenario ",i,": Checks for  for S mortality IRR = ",args_short$S1mortvals[i],", S dementia IRR = ", args_short$S1demvals[i]," and S prevalence = ", args_short$Sprevvals[i],", ",paste(args_short$typevals[i])," cancer.** \n", sep="")
+
+             
+           cat("### *Checking sum of rates in model* \n")
+           
+            cat("#### The sum of rates in the model is:",paste(checks$sumrates),"\n")
+
+            
+            cat("### *Checking dementia mortality HR* \n")
+           
+            cat(print(knitr::kable(checks$rate.ratio.dem.mort.check, align="c")),"\n")
+            
+  
+            cat("### *Checking S mortality rate ratio* \n")
+            
+             cat(print(knitr::kable(checks$rate.ratio.S1.mort.check, align="c")),"\n")
+             
+            cat("### *Checking S dementia rate ratio (shown among cancer-free)* \n")
+            
+             cat(print(knitr::kable(checks$rate.ratio.S1.dem.check, align="c")),"\n")
+            
+             
+              cat("### *Checking cancer relative survival* \n")
+             cat(print(knitr::kable(checks$cancer.rel.surv.check, align="c")),"\n")
+             
+        cat("### *Calibration plots*
+              \n")
+        print(checks$cumsurv.calib.plot)
+        print(checks$dem.calib.plot)
+        print(checks$cancer.calib.plot)
+        
+        cat("<p> </p> \n \n \n")
+    
+  }
+      
+```
+
+
