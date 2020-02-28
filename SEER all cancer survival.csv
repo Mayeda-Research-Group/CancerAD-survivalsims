@@ -1,0 +1,227 @@
+"All Cancer Sites Combined"
+"5-Year SEER Relative Survival Rates, 2009-2015"
+
+Sex,Race/Ethnicity,Age,"Stage at Diagnosis","Relative Survival Rate (%)","Relative Survival Rate Standard Error","Relative Survival Rate Lower Confidence Interval","Relative Survival Rate Upper Confidence Interval"
+"Both Sexes","All Races (includes Hispanic)","All Ages","All Stages",67.1372,0.0410,67.0567,67.2175
+"Both Sexes","All Races (includes Hispanic)","Ages < 50","All Stages",80.6450,0.0761,80.4954,80.7936
+"Both Sexes","All Races (includes Hispanic)","Ages 50-64","All Stages",70.8963,0.0611,70.7763,71.0158
+"Both Sexes","All Races (includes Hispanic)","Ages 65+","All Stages",59.7305,0.0676,59.5979,59.8629
+"Both Sexes","All Races (includes Hispanic)","Ages <15","All Stages",83.6343,0.3008,83.0352,84.2143
+"Both Sexes","All Races (includes Hispanic)","Ages 15-39","All Stages",84.1761,0.1169,83.9456,84.4037
+"Both Sexes","All Races (includes Hispanic)","Ages 40-64","All Stages",72.4380,0.0530,72.3339,72.5418
+"Both Sexes","All Races (includes Hispanic)","Ages 65-74","All Stages",67.2249,0.0812,67.0654,67.3839
+"Both Sexes","All Races (includes Hispanic)","Ages 75+","All Stages",50.6520,0.1130,50.4304,50.8731
+"Both Sexes","All Races (includes Hispanic)","Ages < 20","All Stages",84.0848,0.2446,83.5988,84.5578
+"Both Sexes","American Indian / Alaska Native (includes Hispanic)","All Ages","All Stages",60.3715,0.6049,59.1745,61.5457
+"Both Sexes","American Indian / Alaska Native (includes Hispanic)","Ages < 50","All Stages",74.7194,1.0583,72.5744,76.7244
+"Both Sexes","American Indian / Alaska Native (includes Hispanic)","Ages 50-64","All Stages",61.9251,0.9169,60.0999,63.6936
+"Both Sexes","American Indian / Alaska Native (includes Hispanic)","Ages 65+","All Stages",50.8711,1.0889,48.7162,52.9831
+"Both Sexes","American Indian / Alaska Native (includes Hispanic)","Ages <15","All Stages",81.3621,3.3805,73.6303,87.0246
+"Both Sexes","American Indian / Alaska Native (includes Hispanic)","Ages 15-39","All Stages",79.3343,1.5195,76.1661,82.1317
+"Both Sexes","American Indian / Alaska Native (includes Hispanic)","Ages 40-64","All Stages",63.8455,0.7921,62.2700,65.3746
+"Both Sexes","American Indian / Alaska Native (includes Hispanic)","Ages 65-74","All Stages",56.9739,1.3218,54.3386,59.5179
+"Both Sexes","American Indian / Alaska Native (includes Hispanic)","Ages 75+","All Stages",41.5615,1.8596,37.8999,45.1790
+"Both Sexes","American Indian / Alaska Native (includes Hispanic)","Ages < 20","All Stages",79.6045,2.8575,73.3070,84.5726
+"Both Sexes","Asian / Pacific Islander (includes Hispanic)","All Ages","All Stages",64.2598,0.1497,63.9655,64.5525
+"Both Sexes","Asian / Pacific Islander (includes Hispanic)","Ages < 50","All Stages",79.3602,0.2632,78.8388,79.8705
+"Both Sexes","Asian / Pacific Islander (includes Hispanic)","Ages 50-64","All Stages",69.3202,0.2375,68.8520,69.7830
+"Both Sexes","Asian / Pacific Islander (includes Hispanic)","Ages 65+","All Stages",53.5846,0.2442,53.1046,54.0620
+"Both Sexes","Asian / Pacific Islander (includes Hispanic)","Ages <15","All Stages",81.6148,1.1121,79.3184,83.6830
+"Both Sexes","Asian / Pacific Islander (includes Hispanic)","Ages 15-39","All Stages",81.7802,0.4154,80.9497,82.5784
+"Both Sexes","Asian / Pacific Islander (includes Hispanic)","Ages 40-64","All Stages",71.5323,0.1988,71.1405,71.9198
+"Both Sexes","Asian / Pacific Islander (includes Hispanic)","Ages 65-74","All Stages",64.0124,0.3108,63.3997,64.6179
+"Both Sexes","Asian / Pacific Islander (includes Hispanic)","Ages 75+","All Stages",42.0289,0.3725,41.2979,42.7580
+"Both Sexes","Asian / Pacific Islander (includes Hispanic)","Ages < 20","All Stages",81.9353,0.9103,80.0715,83.6431
+"Both Sexes","Black (includes Hispanic)","All Ages","All Stages",61.7782,0.1254,61.5320,62.0234
+"Both Sexes","Black (includes Hispanic)","Ages < 50","All Stages",71.8166,0.2507,71.3217,72.3047
+"Both Sexes","Black (includes Hispanic)","Ages 50-64","All Stages",64.0556,0.1809,63.6999,64.4088
+"Both Sexes","Black (includes Hispanic)","Ages 65+","All Stages",54.8464,0.2233,54.4075,55.2829
+"Both Sexes","Black (includes Hispanic)","Ages <15","All Stages",79.5397,0.9337,77.6378,81.2999
+"Both Sexes","Black (includes Hispanic)","Ages 15-39","All Stages",73.5206,0.4318,72.6633,74.3560
+"Both Sexes","Black (includes Hispanic)","Ages 40-64","All Stages",65.3267,0.1584,65.0153,65.6361
+"Both Sexes","Black (includes Hispanic)","Ages 65-74","All Stages",61.9205,0.2677,61.3935,62.4428
+"Both Sexes","Black (includes Hispanic)","Ages 75+","All Stages",43.2043,0.3890,42.4406,43.9655
+"Both Sexes","Black (includes Hispanic)","Ages < 20","All Stages",79.2847,0.7993,77.6662,80.8009
+"Both Sexes","Hispanic (any race)","All Ages","All Stages",65.5877,0.1197,65.3526,65.8217
+"Both Sexes","Hispanic (any race)","Ages < 50","All Stages",77.8638,0.1880,77.4926,78.2298
+"Both Sexes","Hispanic (any race)","Ages 50-64","All Stages",67.6231,0.1935,67.2423,68.0007
+"Both Sexes","Hispanic (any race)","Ages 65+","All Stages",54.9040,0.2165,54.4786,55.3272
+"Both Sexes","Hispanic (any race)","Ages <15","All Stages",82.3962,0.5655,81.2564,83.4738
+"Both Sexes","Hispanic (any race)","Ages 15-39","All Stages",80.4627,0.2787,79.9097,81.0024
+"Both Sexes","Hispanic (any race)","Ages 40-64","All Stages",69.6808,0.1601,69.3658,69.9933
+"Both Sexes","Hispanic (any race)","Ages 65-74","All Stages",63.4767,0.2667,62.9514,63.9969
+"Both Sexes","Hispanic (any race)","Ages 75+","All Stages",43.7374,0.3512,43.0480,44.4245
+"Both Sexes","Hispanic (any race)","Ages < 20","All Stages",82.3687,0.4733,81.4191,83.2749
+"Both Sexes","Non-Hispanic White","All Ages","All Stages",67.8758,0.0496,67.7784,67.9729
+"Both Sexes","Non-Hispanic White","Ages < 50","All Stages",83.0465,0.0939,82.8617,83.2296
+"Both Sexes","Non-Hispanic White","Ages 50-64","All Stages",72.3432,0.0728,72.2001,72.4856
+"Both Sexes","Non-Hispanic White","Ages 65+","All Stages",60.7111,0.0794,60.5552,60.8665
+"Both Sexes","Non-Hispanic White","Ages <15","All Stages",85.5208,0.4110,84.6946,86.3060
+"Both Sexes","Non-Hispanic White","Ages 15-39","All Stages",87.4258,0.1407,87.1472,87.6988
+"Both Sexes","Non-Hispanic White","Ages 40-64","All Stages",73.8949,0.0638,73.7696,74.0198
+"Both Sexes","Non-Hispanic White","Ages 65-74","All Stages",68.0821,0.0950,67.8955,68.2679
+"Both Sexes","Non-Hispanic White","Ages 75+","All Stages",52.1677,0.1325,51.9076,52.4271
+"Both Sexes","Non-Hispanic White","Ages < 20","All Stages",86.3128,0.3247,85.6627,86.9357
+"Both Sexes","White (includes Hispanic)","All Ages","All Stages",67.5181,0.0460,67.4279,67.6083
+"Both Sexes","White (includes Hispanic)","Ages < 50","All Stages",81.8423,0.0847,81.6756,82.0077
+"Both Sexes","White (includes Hispanic)","Ages 50-64","All Stages",71.6973,0.0684,71.5630,71.8311
+"Both Sexes","White (includes Hispanic)","Ages 65+","All Stages",60.0382,0.0748,59.8914,60.1846
+"Both Sexes","White (includes Hispanic)","Ages <15","All Stages",84.3487,0.3368,83.6759,84.9963
+"Both Sexes","White (includes Hispanic)","Ages 15-39","All Stages",85.5929,0.1279,85.3401,85.8416
+"Both Sexes","White (includes Hispanic)","Ages 40-64","All Stages",73.2620,0.0595,73.1452,73.3784
+"Both Sexes","White (includes Hispanic)","Ages 65-74","All Stages",67.5239,0.0898,67.3476,67.6995
+"Both Sexes","White (includes Hispanic)","Ages 75+","All Stages",51.2624,0.1246,51.0179,51.5062
+"Both Sexes","White (includes Hispanic)","Ages < 20","All Stages",84.8642,0.2718,84.3229,85.3885
+Female,"All Races (includes Hispanic)","All Ages","All Stages",67.9573,0.0573,67.8449,68.0695
+Female,"All Races (includes Hispanic)","Ages < 50","All Stages",83.9704,0.0912,83.7907,84.1483
+Female,"All Races (includes Hispanic)","Ages 50-64","All Stages",73.2741,0.0871,73.1029,73.4444
+Female,"All Races (includes Hispanic)","Ages 65+","All Stages",56.7257,0.0980,56.5334,56.9175
+Female,"All Races (includes Hispanic)","Ages <15","All Stages",84.0290,0.4367,83.1521,84.8644
+Female,"All Races (includes Hispanic)","Ages 15-39","All Stages",86.5009,0.1420,86.2199,86.7767
+Female,"All Races (includes Hispanic)","Ages 40-64","All Stages",75.7231,0.0719,75.5818,75.8637
+Female,"All Races (includes Hispanic)","Ages 65-74","All Stages",64.8844,0.1229,64.6429,65.1248
+Female,"All Races (includes Hispanic)","Ages 75+","All Stages",48.5797,0.1525,48.2804,48.8782
+Female,"All Races (includes Hispanic)","Ages < 20","All Stages",85.3229,0.3446,84.6332,85.9842
+Female,"American Indian / Alaska Native (includes Hispanic)","All Ages","All Stages",65.2579,0.8039,63.6569,66.8078
+Female,"American Indian / Alaska Native (includes Hispanic)","Ages < 50","All Stages",78.3786,1.3029,75.6934,80.8056
+Female,"American Indian / Alaska Native (includes Hispanic)","Ages 50-64","All Stages",68.5038,1.2104,66.0639,70.8088
+Female,"American Indian / Alaska Native (includes Hispanic)","Ages 65+","All Stages",52.6180,1.5475,49.5384,55.6004
+Female,"American Indian / Alaska Native (includes Hispanic)","Ages <15","All Stages",82.5136,5.1663,69.4924,90.3476
+Female,"American Indian / Alaska Native (includes Hispanic)","Ages 15-39","All Stages",80.3824,1.9771,76.1612,83.9358
+Female,"American Indian / Alaska Native (includes Hispanic)","Ages 40-64","All Stages",70.6519,1.0111,68.6177,72.5816
+Female,"American Indian / Alaska Native (includes Hispanic)","Ages 65-74","All Stages",59.9139,1.9103,56.0612,63.5444
+Female,"American Indian / Alaska Native (includes Hispanic)","Ages 75+","All Stages",42.7655,2.5031,37.8225,47.6099
+Female,"American Indian / Alaska Native (includes Hispanic)","Ages < 20","All Stages",81.6655,4.1667,71.7598,88.3718
+Female,"Asian / Pacific Islander (includes Hispanic)","All Ages","All Stages",68.9025,0.1942,68.5201,69.2813
+Female,"Asian / Pacific Islander (includes Hispanic)","Ages < 50","All Stages",84.1180,0.2903,83.5398,84.6778
+Female,"Asian / Pacific Islander (includes Hispanic)","Ages 50-64","All Stages",75.3563,0.3021,74.7584,75.9425
+Female,"Asian / Pacific Islander (includes Hispanic)","Ages 65+","All Stages",53.0259,0.3518,52.3340,53.7127
+Female,"Asian / Pacific Islander (includes Hispanic)","Ages <15","All Stages",81.2632,1.7062,77.6473,84.3540
+Female,"Asian / Pacific Islander (includes Hispanic)","Ages 15-39","All Stages",85.3294,0.4713,84.3787,86.2271
+Female,"Asian / Pacific Islander (includes Hispanic)","Ages 40-64","All Stages",77.9803,0.2390,77.5076,78.4444
+Female,"Asian / Pacific Islander (includes Hispanic)","Ages 65-74","All Stages",65.1913,0.4584,64.2846,66.0815
+Female,"Asian / Pacific Islander (includes Hispanic)","Ages 75+","All Stages",41.0001,0.5140,39.9912,42.0059
+Female,"Asian / Pacific Islander (includes Hispanic)","Ages < 20","All Stages",83.6275,1.3024,80.8899,86.0073
+Female,"Black (includes Hispanic)","All Ages","All Stages",59.7481,0.1787,59.3969,60.0974
+Female,"Black (includes Hispanic)","Ages < 50","All Stages",74.4071,0.3151,73.7834,75.0187
+Female,"Black (includes Hispanic)","Ages 50-64","All Stages",62.5112,0.2746,61.9704,63.0469
+Female,"Black (includes Hispanic)","Ages 65+","All Stages",48.6451,0.3166,48.0231,49.2641
+Female,"Black (includes Hispanic)","Ages <15","All Stages",79.0553,1.3470,76.2687,81.5552
+Female,"Black (includes Hispanic)","Ages 15-39","All Stages",76.7427,0.5197,75.7051,77.7427
+Female,"Black (includes Hispanic)","Ages 40-64","All Stages",65.2259,0.2300,64.7730,65.6746
+Female,"Black (includes Hispanic)","Ages 65-74","All Stages",55.9680,0.4033,55.1736,56.7544
+Female,"Black (includes Hispanic)","Ages 75+","All Stages",39.6205,0.4998,38.6400,40.5990
+Female,"Black (includes Hispanic)","Ages < 20","All Stages",79.6562,1.1249,77.3458,81.7594
+Female,"Hispanic (any race)","All Ages","All Stages",68.1911,0.1616,67.8732,68.5066
+Female,"Hispanic (any race)","Ages < 50","All Stages",81.7749,0.2253,81.3285,82.2118
+Female,"Hispanic (any race)","Ages 50-64","All Stages",71.5183,0.2661,70.9929,72.0362
+Female,"Hispanic (any race)","Ages 65+","All Stages",51.8371,0.3157,51.2164,52.4538
+Female,"Hispanic (any race)","Ages <15","All Stages",83.2134,0.8113,81.5544,84.7375
+Female,"Hispanic (any race)","Ages 15-39","All Stages",83.4281,0.3420,82.7455,84.0864
+Female,"Hispanic (any race)","Ages 40-64","All Stages",74.5427,0.2072,74.1340,74.9460
+Female,"Hispanic (any race)","Ages 65-74","All Stages",61.4990,0.4006,60.7085,62.2789
+Female,"Hispanic (any race)","Ages 75+","All Stages",40.6756,0.4866,39.7207,41.6279
+Female,"Hispanic (any race)","Ages < 20","All Stages",83.8612,0.6712,82.4965,85.1293
+Female,"Non-Hispanic White","All Ages","All Stages",68.7081,0.0697,68.5712,68.8445
+Female,"Non-Hispanic White","Ages < 50","All Stages",86.2487,0.1120,86.0275,86.4667
+Female,"Non-Hispanic White","Ages 50-64","All Stages",74.9576,0.1038,74.7534,75.1605
+Female,"Non-Hispanic White","Ages 65+","All Stages",58.2661,0.1149,58.0405,58.4910
+Female,"Non-Hispanic White","Ages <15","All Stages",85.9643,0.5950,84.7528,87.0869
+Female,"Non-Hispanic White","Ages 15-39","All Stages",89.4169,0.1710,89.0767,89.7470
+Female,"Non-Hispanic White","Ages 40-64","All Stages",77.2963,0.0868,77.1257,77.4658
+Female,"Non-Hispanic White","Ages 65-74","All Stages",66.2126,0.1435,65.9305,66.4929
+Female,"Non-Hispanic White","Ages 75+","All Stages",50.7030,0.1788,50.3521,51.0528
+Female,"Non-Hispanic White","Ages < 20","All Stages",87.4314,0.4552,86.5093,88.2949
+Female,"White (includes Hispanic)","All Ages","All Stages",68.6149,0.0643,68.4887,68.7407
+Female,"White (includes Hispanic)","Ages < 50","All Stages",85.2262,0.1012,85.0266,85.4234
+Female,"White (includes Hispanic)","Ages 50-64","All Stages",74.4681,0.0970,74.2773,74.6577
+Female,"White (includes Hispanic)","Ages 65+","All Stages",57.5849,0.1083,57.3722,57.7969
+Female,"White (includes Hispanic)","Ages <15","All Stages",85.0661,0.4840,84.0896,85.9878
+Female,"White (includes Hispanic)","Ages 15-39","All Stages",87.8720,0.1558,87.5630,88.1738
+Female,"White (includes Hispanic)","Ages 40-64","All Stages",76.8599,0.0803,76.7021,77.0168
+Female,"White (includes Hispanic)","Ages 65-74","All Stages",65.6681,0.1354,65.4019,65.9328
+Female,"White (includes Hispanic)","Ages 75+","All Stages",49.7374,0.1685,49.4066,50.0672
+Female,"White (includes Hispanic)","Ages < 20","All Stages",86.2828,0.3808,85.5176,87.0107
+Male,"All Races (includes Hispanic)","All Ages","All Stages",66.3328,0.0587,66.2177,66.4477
+Male,"All Races (includes Hispanic)","Ages < 50","All Stages",75.3119,0.1321,75.0518,75.5697
+Male,"All Races (includes Hispanic)","Ages 50-64","All Stages",68.7797,0.0854,68.6120,68.9467
+Male,"All Races (includes Hispanic)","Ages 65+","All Stages",62.3407,0.0933,62.1575,62.5233
+Male,"All Races (includes Hispanic)","Ages <15","All Stages",83.2881,0.4147,82.4573,84.0834
+Male,"All Races (includes Hispanic)","Ages 15-39","All Stages",80.5610,0.1998,80.1659,80.9492
+Male,"All Races (includes Hispanic)","Ages 40-64","All Stages",69.0976,0.0777,68.9451,69.2497
+Male,"All Races (includes Hispanic)","Ages 65-74","All Stages",68.9360,0.1082,68.7234,69.1475
+Male,"All Races (includes Hispanic)","Ages 75+","All Stages",52.8615,0.1674,52.5328,53.1891
+Male,"All Races (includes Hispanic)","Ages < 20","All Stages",82.9921,0.3456,82.3027,83.6574
+Male,"American Indian / Alaska Native (includes Hispanic)","All Ages","All Stages",54.8377,0.9068,53.0415,56.5955
+Male,"American Indian / Alaska Native (includes Hispanic)","Ages < 50","All Stages",69.0713,1.7721,65.4494,72.3965
+Male,"American Indian / Alaska Native (includes Hispanic)","Ages 50-64","All Stages",54.3733,1.3734,51.6401,57.0211
+Male,"American Indian / Alaska Native (includes Hispanic)","Ages 65+","All Stages",49.2476,1.5288,46.2160,52.2043
+Male,"American Indian / Alaska Native (includes Hispanic)","Ages <15","All Stages",80.5123,4.4539,69.9458,87.6828
+Male,"American Indian / Alaska Native (includes Hispanic)","Ages 15-39","All Stages",77.7229,2.3669,72.6609,81.9652
+Male,"American Indian / Alaska Native (includes Hispanic)","Ages 40-64","All Stages",55.1693,1.2346,52.7143,57.5520
+Male,"American Indian / Alaska Native (includes Hispanic)","Ages 65-74","All Stages",54.5127,1.8236,50.8659,58.0081
+Male,"American Indian / Alaska Native (includes Hispanic)","Ages 75+","All Stages",39.8160,2.7693,34.3754,45.1947
+Male,"American Indian / Alaska Native (includes Hispanic)","Ages < 20","All Stages",77.9947,3.9172,69.1210,84.5989
+Male,"Asian / Pacific Islander (includes Hispanic)","All Ages","All Stages",58.6299,0.2308,58.1761,59.0807
+Male,"Asian / Pacific Islander (includes Hispanic)","Ages < 50","All Stages",68.6194,0.5369,67.5538,69.6584
+Male,"Asian / Pacific Islander (includes Hispanic)","Ages 50-64","All Stages",61.6980,0.3718,60.9647,62.4221
+Male,"Asian / Pacific Islander (includes Hispanic)","Ages 65+","All Stages",54.0666,0.3394,53.3989,54.7291
+Male,"Asian / Pacific Islander (includes Hispanic)","Ages <15","All Stages",81.8852,1.4641,78.8079,84.5601
+Male,"Asian / Pacific Islander (includes Hispanic)","Ages 15-39","All Stages",74.6161,0.8053,72.9970,76.1545
+Male,"Asian / Pacific Islander (includes Hispanic)","Ages 40-64","All Stages",61.7540,0.3356,61.0924,62.4080
+Male,"Asian / Pacific Islander (includes Hispanic)","Ages 65-74","All Stages",63.0153,0.4223,62.1813,63.8367
+Male,"Asian / Pacific Islander (includes Hispanic)","Ages 75+","All Stages",43.0619,0.5397,42.0018,44.1171
+Male,"Asian / Pacific Islander (includes Hispanic)","Ages < 20","All Stages",80.4932,1.2678,77.8668,82.8430
+Male,"Black (includes Hispanic)","All Ages","All Stages",63.6402,0.1759,63.2944,63.9838
+Male,"Black (includes Hispanic)","Ages < 50","All Stages",67.7604,0.4110,66.9474,68.5584
+Male,"Black (includes Hispanic)","Ages 50-64","All Stages",65.1971,0.2405,64.7234,65.6661
+Male,"Black (includes Hispanic)","Ages 65+","All Stages",60.4604,0.3131,59.8436,61.0710
+Male,"Black (includes Hispanic)","Ages <15","All Stages",80.0093,1.2935,77.3309,82.4080
+Male,"Black (includes Hispanic)","Ages 15-39","All Stages",67.6867,0.7601,66.1713,69.1508
+Male,"Black (includes Hispanic)","Ages 40-64","All Stages",65.3842,0.2185,64.9540,65.8106
+Male,"Black (includes Hispanic)","Ages 65-74","All Stages",66.2672,0.3564,65.5634,66.9606
+Male,"Black (includes Hispanic)","Ages 75+","All Stages",47.8162,0.6146,46.6065,49.0152
+Male,"Black (includes Hispanic)","Ages < 20","All Stages",78.9336,1.1345,76.6071,81.0580
+Male,"Hispanic (any race)","All Ages","All Stages",62.7322,0.1770,62.3843,63.0779
+Male,"Hispanic (any race)","Ages < 50","All Stages",71.4652,0.3272,70.8182,72.1008
+Male,"Hispanic (any race)","Ages 50-64","All Stages",63.6397,0.2796,63.0888,64.1849
+Male,"Hispanic (any race)","Ages 65+","All Stages",57.5126,0.2974,56.9273,58.0932
+Male,"Hispanic (any race)","Ages <15","All Stages",81.6853,0.7870,80.0845,83.1713
+Male,"Hispanic (any race)","Ages 15-39","All Stages",76.0285,0.4684,75.0957,76.9318
+Male,"Hispanic (any race)","Ages 40-64","All Stages",63.7387,0.2469,63.2525,64.2204
+Male,"Hispanic (any race)","Ages 65-74","All Stages",64.9786,0.3576,64.2727,65.6745
+Male,"Hispanic (any race)","Ages 75+","All Stages",46.7237,0.5061,45.7285,47.7122
+Male,"Hispanic (any race)","Ages < 20","All Stages",81.1136,0.6631,79.7741,82.3745
+Male,"Non-Hispanic White","All Ages","All Stages",67.0830,0.0705,66.9446,67.2209
+Male,"Non-Hispanic White","Ages < 50","All Stages",78.1126,0.1629,77.7913,78.4299
+Male,"Non-Hispanic White","Ages 50-64","All Stages",70.0687,0.1017,69.8689,70.2675
+Male,"Non-Hispanic White","Ages 65+","All Stages",62.8477,0.1098,62.6321,63.0624
+Male,"Non-Hispanic White","Ages <15","All Stages",85.1366,0.5678,83.9852,86.2122
+Male,"Non-Hispanic White","Ages 15-39","All Stages",84.4692,0.2393,83.9938,84.9318
+Male,"Non-Hispanic White","Ages 40-64","All Stages",70.5649,0.0930,70.3823,70.7467
+Male,"Non-Hispanic White","Ages 65-74","All Stages",69.4473,0.1267,69.1982,69.6949
+Male,"Non-Hispanic White","Ages 75+","All Stages",53.7323,0.1967,53.3458,54.1170
+Male,"Non-Hispanic White","Ages < 20","All Stages",85.3137,0.4606,84.3853,86.1915
+Male,"White (includes Hispanic)","All Ages","All Stages",66.4535,0.0657,66.3245,66.5822
+Male,"White (includes Hispanic)","Ages < 50","All Stages",76.5607,0.1471,76.2709,76.8475
+Male,"White (includes Hispanic)","Ages 50-64","All Stages",69.2325,0.0959,69.0441,69.4201
+Male,"White (includes Hispanic)","Ages 65+","All Stages",62.1799,0.1034,61.9769,62.3821
+Male,"White (includes Hispanic)","Ages <15","All Stages",83.7247,0.4681,82.7836,84.6192
+Male,"White (includes Hispanic)","Ages 15-39","All Stages",82.2070,0.2169,81.7773,82.6275
+Male,"White (includes Hispanic)","Ages 40-64","All Stages",69.6230,0.0874,69.4513,69.7939
+Male,"White (includes Hispanic)","Ages 65-74","All Stages",68.8860,0.1199,68.6504,69.1203
+Male,"White (includes Hispanic)","Ages 75+","All Stages",52.8819,0.1843,52.5199,53.2424
+Male,"White (includes Hispanic)","Ages < 20","All Stages",83.6246,0.3852,82.8539,84.3640
+
+"Data Source:"
+"SEER 18 areas [http://seer.cancer.gov/registries/terms.html] (San Francisco, Connecticut, Detroit, Hawaii, Iowa, New Mexico, Seattle, Utah, Atlanta, San Jose-Monterey, Los Angeles, Alaska Native Registry, Rural Georgia, California excluding SF/SJM/LA, Kentucky, Louisiana, New Jersey, and Georgia excluding ATL/RG)."
+Methodology:
+"The five-year survival rates are calculated using monthly intervals."
+"The Expected Survival Life Tables [https://seer.cancer.gov/expsurvival/] by Socio-Economic Standards were used."
+"Race/Ethnicity Coding:"
+"Rates for American Indians/Alaska Natives only include cases that are in a Purchased/Referred Care Delivery Area (PRCDA). See  SEER Race Recode Documentation for American Indian/Alaskan Native Statistics [http://seer.cancer.gov/seerstat/variables/seer/race_ethnicity/#ai-an]."
+"Hispanics and Non-Hispanics are not mutually exclusive from whites, blacks, Asian/Pacific Islanders, and American Indians/Alaska Natives. Incidence data for Hispanics and Non-Hispanics are based on the NAACCR Hispanic Latino Identification Algorithm (NHIA) and exclude cases from the Alaska Native Registry. See SEER Race Recode Documentation for Spanish-Hispanic-Latino Ethnicity [http://seer.cancer.gov/seerstat/variables/seer/race_ethnicity/#hispanic]."
+"Cancer Site Coding:"
+"See <a href=""https://seer.cancer.gov/explorer/cancer-sites.html"">SEER*Explorer Cancer Site Definitions</a> for details about the coding used for SEER Incidence data."
+Timestamp:
+"Created by seer.cancer.gov/explorer/application.php on 01/24/2020 1:09 pm."

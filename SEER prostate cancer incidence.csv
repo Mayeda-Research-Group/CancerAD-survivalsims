@@ -1,0 +1,282 @@
+"Prostate Cancer"
+"SEER Incidence Rates by Age at Diagnosis, 2012-2016"
+
+Sex,Race/Ethnicity,"Rate Type",Age,"Rate per 100,000","Rate Standard Error","Rate Lower Confidence Interval","Rate Upper Confidence Interval"
+Male,"All Races (includes Hispanic)","Observed Rates",<1,-,-,-,-
+Male,"All Races (includes Hispanic)","Observed Rates",1-4,-,-,-,-
+Male,"All Races (includes Hispanic)","Observed Rates",5-9,-,-,-,-
+Male,"All Races (includes Hispanic)","Observed Rates",10-14,-,-,-,-
+Male,"All Races (includes Hispanic)","Observed Rates",15-19,-,-,-,-
+Male,"All Races (includes Hispanic)","Observed Rates",20-24,-,-,-,-
+Male,"All Races (includes Hispanic)","Observed Rates",25-29,-,-,-,-
+Male,"All Races (includes Hispanic)","Observed Rates",30-34,0.0936,0.0215,0.0563,0.1461
+Male,"All Races (includes Hispanic)","Observed Rates",35-39,0.6202,0.0576,0.5124,0.7438
+Male,"All Races (includes Hispanic)","Observed Rates",40-44,7.8093,0.2033,7.4159,8.2181
+Male,"All Races (includes Hispanic)","Observed Rates",45-49,33.9570,0.4174,33.1437,34.7851
+Male,"All Races (includes Hispanic)","Observed Rates",50-54,115.9978,0.7590,114.5149,117.4951
+Male,"All Races (includes Hispanic)","Observed Rates",55-59,248.5504,1.1491,246.3032,250.8130
+Male,"All Races (includes Hispanic)","Observed Rates",60-64,417.5921,1.6258,414.4116,420.7910
+Male,"All Races (includes Hispanic)","Observed Rates",65-69,627.7764,2.2317,623.4098,632.1659
+Male,"All Races (includes Hispanic)","Observed Rates",70-74,652.0143,2.7490,646.6373,657.4249
+Male,"All Races (includes Hispanic)","Observed Rates",75-79,567.3583,3.0860,561.3258,573.4395
+Male,"All Races (includes Hispanic)","Observed Rates",80-84,425.2739,3.2038,419.0175,431.6004
+Male,"All Races (includes Hispanic)","Observed Rates",85+,366.9878,3.1058,360.9254,373.1265
+Male,"All Races (includes Hispanic)","Delay-adjusted Rates",<1,-,-,-,-
+Male,"All Races (includes Hispanic)","Delay-adjusted Rates",1-4,-,-,-,-
+Male,"All Races (includes Hispanic)","Delay-adjusted Rates",5-9,-,-,-,-
+Male,"All Races (includes Hispanic)","Delay-adjusted Rates",10-14,-,-,-,-
+Male,"All Races (includes Hispanic)","Delay-adjusted Rates",15-19,-,-,-,-
+Male,"All Races (includes Hispanic)","Delay-adjusted Rates",20-24,-,-,-,-
+Male,"All Races (includes Hispanic)","Delay-adjusted Rates",25-29,-,-,-,-
+Male,"All Races (includes Hispanic)","Delay-adjusted Rates",30-34,0.0947,0.0217,0.0570,0.1479
+Male,"All Races (includes Hispanic)","Delay-adjusted Rates",35-39,0.6282,0.0583,0.5191,0.7534
+Male,"All Races (includes Hispanic)","Delay-adjusted Rates",40-44,7.9138,0.2060,7.5151,8.3280
+Male,"All Races (includes Hispanic)","Delay-adjusted Rates",45-49,34.4199,0.4231,33.5955,35.2594
+Male,"All Races (includes Hispanic)","Delay-adjusted Rates",50-54,117.8936,0.7715,116.3864,119.4154
+Male,"All Races (includes Hispanic)","Delay-adjusted Rates",55-59,252.7834,1.1688,250.4977,255.0847
+Male,"All Races (includes Hispanic)","Delay-adjusted Rates",60-64,424.7379,1.6538,421.5027,427.9917
+Male,"All Races (includes Hispanic)","Delay-adjusted Rates",65-69,641.8247,2.2819,637.3599,646.3128
+Male,"All Races (includes Hispanic)","Delay-adjusted Rates",70-74,666.5942,2.8108,661.0962,672.1262
+Male,"All Races (includes Hispanic)","Delay-adjusted Rates",75-79,580.1069,3.1557,573.9380,586.3251
+Male,"All Races (includes Hispanic)","Delay-adjusted Rates",80-84,434.7546,3.2756,428.3579,441.2224
+Male,"All Races (includes Hispanic)","Delay-adjusted Rates",85+,375.0544,3.1745,368.8580,381.3282
+Male,"American Indian / Alaska Native (includes Hispanic)","Observed Rates",<1,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Observed Rates",1-4,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Observed Rates",5-9,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Observed Rates",10-14,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Observed Rates",15-19,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Observed Rates",20-24,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Observed Rates",25-29,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Observed Rates",30-34,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Observed Rates",35-39,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Observed Rates",40-44,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Observed Rates",45-49,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Observed Rates",50-54,49.1962,5.9659,38.2028,62.3679
+Male,"American Indian / Alaska Native (includes Hispanic)","Observed Rates",55-59,81.4647,8.2715,66.0624,99.3800
+Male,"American Indian / Alaska Native (includes Hispanic)","Observed Rates",60-64,167.9057,13.6190,142.2742,196.8211
+Male,"American Indian / Alaska Native (includes Hispanic)","Observed Rates",65-69,331.2086,22.7475,288.1220,378.9211
+Male,"American Indian / Alaska Native (includes Hispanic)","Observed Rates",70-74,321.1757,27.9548,268.7251,380.8734
+Male,"American Indian / Alaska Native (includes Hispanic)","Observed Rates",75-79,281.2560,32.9185,220.4598,353.6372
+Male,"American Indian / Alaska Native (includes Hispanic)","Observed Rates",80-84,437.1440,53.8087,338.0871,556.1543
+Male,"American Indian / Alaska Native (includes Hispanic)","Observed Rates",85+,259.4482,47.3686,175.0486,370.3785
+Male,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted Rates",<1,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted Rates",1-4,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted Rates",5-9,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted Rates",10-14,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted Rates",15-19,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted Rates",20-24,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted Rates",25-29,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted Rates",30-34,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted Rates",35-39,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted Rates",40-44,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted Rates",45-49,-,-,-,-
+Male,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted Rates",50-54,54.4849,6.6147,42.2969,68.9924
+Male,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted Rates",55-59,91.4836,9.3027,74.1624,111.5085
+Male,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted Rates",60-64,187.8973,15.2590,159.1806,220.1426
+Male,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted Rates",65-69,371.6928,25.5604,323.2805,425.0888
+Male,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted Rates",70-74,357.1195,31.1256,298.7232,423.2696
+Male,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted Rates",75-79,314.0585,36.8141,246.0743,394.4515
+Male,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted Rates",80-84,490.2893,60.4673,378.9887,623.0242
+Male,"American Indian / Alaska Native (includes Hispanic)","Delay-adjusted Rates",85+,289.2717,52.9100,195.0162,411.8176
+Male,"Asian / Pacific Islander (includes Hispanic)","Observed Rates",<1,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Observed Rates",1-4,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Observed Rates",5-9,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Observed Rates",10-14,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Observed Rates",15-19,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Observed Rates",20-24,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Observed Rates",25-29,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Observed Rates",30-34,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Observed Rates",35-39,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Observed Rates",40-44,1.5675,0.2688,1.0855,2.1904
+Male,"Asian / Pacific Islander (includes Hispanic)","Observed Rates",45-49,8.6206,0.6612,7.3734,10.0183
+Male,"Asian / Pacific Islander (includes Hispanic)","Observed Rates",50-54,37.0233,1.4105,34.3101,39.8941
+Male,"Asian / Pacific Islander (includes Hispanic)","Observed Rates",55-59,97.1940,2.4074,92.5323,102.0296
+Male,"Asian / Pacific Islander (includes Hispanic)","Observed Rates",60-64,187.0882,3.6635,179.9761,194.4093
+Male,"Asian / Pacific Islander (includes Hispanic)","Observed Rates",65-69,337.3167,5.5987,326.4318,348.4721
+Male,"Asian / Pacific Islander (includes Hispanic)","Observed Rates",70-74,355.7507,6.9212,342.3134,369.5802
+Male,"Asian / Pacific Islander (includes Hispanic)","Observed Rates",75-79,348.8765,8.1134,333.1540,365.1494
+Male,"Asian / Pacific Islander (includes Hispanic)","Observed Rates",80-84,264.6326,8.7725,247.7159,282.4003
+Male,"Asian / Pacific Islander (includes Hispanic)","Observed Rates",85+,228.7498,8.6152,212.1737,246.2769
+Male,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted Rates",<1,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted Rates",1-4,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted Rates",5-9,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted Rates",10-14,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted Rates",15-19,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted Rates",20-24,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted Rates",25-29,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted Rates",30-34,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted Rates",35-39,-,-,-,-
+Male,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted Rates",40-44,1.6609,0.2850,1.1499,2.3176
+Male,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted Rates",45-49,9.0344,0.6932,7.7269,10.4969
+Male,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted Rates",50-54,38.8622,1.4812,36.0129,41.8740
+Male,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted Rates",55-59,102.0469,2.5286,97.1507,107.1229
+Male,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted Rates",60-64,196.6418,3.8522,189.1634,204.3363
+Male,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted Rates",65-69,359.0591,5.9630,347.4659,370.9341
+Male,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted Rates",70-74,378.3405,7.3648,364.0419,393.0477
+Male,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted Rates",75-79,370.9869,8.6328,354.2580,388.2890
+Male,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted Rates",80-84,280.7619,9.3123,262.8044,299.6042
+Male,"Asian / Pacific Islander (includes Hispanic)","Delay-adjusted Rates",85+,242.3385,9.1324,224.7676,260.8970
+Male,"Black (includes Hispanic)","Observed Rates",<1,-,-,-,-
+Male,"Black (includes Hispanic)","Observed Rates",1-4,-,-,-,-
+Male,"Black (includes Hispanic)","Observed Rates",5-9,-,-,-,-
+Male,"Black (includes Hispanic)","Observed Rates",10-14,-,-,-,-
+Male,"Black (includes Hispanic)","Observed Rates",15-19,-,-,-,-
+Male,"Black (includes Hispanic)","Observed Rates",20-24,-,-,-,-
+Male,"Black (includes Hispanic)","Observed Rates",25-29,-,-,-,-
+Male,"Black (includes Hispanic)","Observed Rates",30-34,-,-,-,-
+Male,"Black (includes Hispanic)","Observed Rates",35-39,1.5513,0.2550,1.0923,2.1383
+Male,"Black (includes Hispanic)","Observed Rates",40-44,19.0132,0.8973,17.2949,20.8559
+Male,"Black (includes Hispanic)","Observed Rates",45-49,82.9869,1.8506,79.3991,86.6950
+Male,"Black (includes Hispanic)","Observed Rates",50-54,229.0176,3.0659,223.0476,235.1069
+Male,"Black (includes Hispanic)","Observed Rates",55-59,459.1591,4.6178,450.1526,468.3006
+Male,"Black (includes Hispanic)","Observed Rates",60-64,720.8285,6.6098,707.9311,733.9019
+Male,"Black (includes Hispanic)","Observed Rates",65-69,1017.3292,9.2846,999.2121,1035.6922
+Male,"Black (includes Hispanic)","Observed Rates",70-74,961.7648,11.1524,940.0291,983.8762
+Male,"Black (includes Hispanic)","Observed Rates",75-79,798.2806,12.4945,773.9776,823.1527
+Male,"Black (includes Hispanic)","Observed Rates",80-84,547.1375,13.3727,521.2384,573.9903
+Male,"Black (includes Hispanic)","Observed Rates",85+,494.5068,14.1172,467.2212,522.9701
+Male,"Black (includes Hispanic)","Delay-adjusted Rates",<1,-,-,-,-
+Male,"Black (includes Hispanic)","Delay-adjusted Rates",1-4,-,-,-,-
+Male,"Black (includes Hispanic)","Delay-adjusted Rates",5-9,-,-,-,-
+Male,"Black (includes Hispanic)","Delay-adjusted Rates",10-14,-,-,-,-
+Male,"Black (includes Hispanic)","Delay-adjusted Rates",15-19,-,-,-,-
+Male,"Black (includes Hispanic)","Delay-adjusted Rates",20-24,-,-,-,-
+Male,"Black (includes Hispanic)","Delay-adjusted Rates",25-29,-,-,-,-
+Male,"Black (includes Hispanic)","Delay-adjusted Rates",30-34,-,-,-,-
+Male,"Black (includes Hispanic)","Delay-adjusted Rates",35-39,1.6115,0.2650,1.1345,2.2193
+Male,"Black (includes Hispanic)","Delay-adjusted Rates",40-44,19.7828,0.9340,17.9943,21.6990
+Male,"Black (includes Hispanic)","Delay-adjusted Rates",45-49,86.4221,1.9279,82.6843,90.2835
+Male,"Black (includes Hispanic)","Delay-adjusted Rates",50-54,239.1510,3.2029,232.9143,245.5106
+Male,"Black (includes Hispanic)","Delay-adjusted Rates",55-59,479.6354,4.8258,470.2232,489.1865
+Male,"Black (includes Hispanic)","Delay-adjusted Rates",60-64,752.6285,6.9043,739.1565,766.2816
+Male,"Black (includes Hispanic)","Delay-adjusted Rates",65-69,1072.1783,9.7911,1053.0729,1091.5385
+Male,"Black (includes Hispanic)","Delay-adjusted Rates",70-74,1012.2113,11.7442,989.3224,1035.4890
+Male,"Black (includes Hispanic)","Delay-adjusted Rates",75-79,842.0691,13.1881,816.4171,868.3107
+Male,"Black (includes Hispanic)","Delay-adjusted Rates",80-84,576.8741,14.1081,549.5510,605.1851
+Male,"Black (includes Hispanic)","Delay-adjusted Rates",85+,521.0989,14.8849,492.3299,551.0870
+Male,"Hispanic (any race)","Observed Rates",<1,-,-,-,-
+Male,"Hispanic (any race)","Observed Rates",1-4,-,-,-,-
+Male,"Hispanic (any race)","Observed Rates",5-9,-,-,-,-
+Male,"Hispanic (any race)","Observed Rates",10-14,-,-,-,-
+Male,"Hispanic (any race)","Observed Rates",15-19,-,-,-,-
+Male,"Hispanic (any race)","Observed Rates",20-24,-,-,-,-
+Male,"Hispanic (any race)","Observed Rates",25-29,-,-,-,-
+Male,"Hispanic (any race)","Observed Rates",30-34,-,-,-,-
+Male,"Hispanic (any race)","Observed Rates",35-39,0.3320,0.0830,0.1898,0.5391
+Male,"Hispanic (any race)","Observed Rates",40-44,4.7725,0.3278,4.1517,5.4600
+Male,"Hispanic (any race)","Observed Rates",45-49,20.7858,0.7193,19.3997,22.2448
+Male,"Hispanic (any race)","Observed Rates",50-54,76.5044,1.4986,73.5950,79.4993
+Male,"Hispanic (any race)","Observed Rates",55-59,182.5855,2.6172,177.4916,187.7886
+Male,"Hispanic (any race)","Observed Rates",60-64,331.2533,4.1478,323.1730,339.4845
+Male,"Hispanic (any race)","Observed Rates",65-69,548.1219,6.3882,535.6719,560.7882
+Male,"Hispanic (any race)","Observed Rates",70-74,578.2307,8.1522,562.3618,594.4338
+Male,"Hispanic (any race)","Observed Rates",75-79,554.2986,9.6741,535.4983,573.5906
+Male,"Hispanic (any race)","Observed Rates",80-84,424.8272,10.5096,404.4761,445.9370
+Male,"Hispanic (any race)","Observed Rates",85+,338.4063,10.2126,318.6835,359.0303
+Male,"Hispanic (any race)","Delay-adjusted Rates",<1,-,-,-,-
+Male,"Hispanic (any race)","Delay-adjusted Rates",1-4,-,-,-,-
+Male,"Hispanic (any race)","Delay-adjusted Rates",5-9,-,-,-,-
+Male,"Hispanic (any race)","Delay-adjusted Rates",10-14,-,-,-,-
+Male,"Hispanic (any race)","Delay-adjusted Rates",15-19,-,-,-,-
+Male,"Hispanic (any race)","Delay-adjusted Rates",20-24,-,-,-,-
+Male,"Hispanic (any race)","Delay-adjusted Rates",25-29,-,-,-,-
+Male,"Hispanic (any race)","Delay-adjusted Rates",30-34,-,-,-,-
+Male,"Hispanic (any race)","Delay-adjusted Rates",35-39,0.3386,0.0847,0.1935,0.5493
+Male,"Hispanic (any race)","Delay-adjusted Rates",40-44,4.8972,0.3364,4.2599,5.6022
+Male,"Hispanic (any race)","Delay-adjusted Rates",45-49,21.2763,0.7365,19.8571,22.7695
+Male,"Hispanic (any race)","Delay-adjusted Rates",50-54,78.6350,1.5409,75.6437,81.7135
+Male,"Hispanic (any race)","Delay-adjusted Rates",55-59,187.9480,2.6949,182.7027,193.3045
+Male,"Hispanic (any race)","Delay-adjusted Rates",60-64,340.8928,4.2699,332.5747,349.3648
+Male,"Hispanic (any race)","Delay-adjusted Rates",65-69,565.8947,6.5977,553.0365,578.9739
+Male,"Hispanic (any race)","Delay-adjusted Rates",70-74,597.0374,8.4205,580.6463,613.7699
+Male,"Hispanic (any race)","Delay-adjusted Rates",75-79,572.1131,9.9884,552.7020,592.0263
+Male,"Hispanic (any race)","Delay-adjusted Rates",80-84,437.8604,10.8353,416.8786,459.6162
+Male,"Hispanic (any race)","Delay-adjusted Rates",85+,349.0368,10.5369,328.6877,370.3055
+Male,"Non-Hispanic White","Observed Rates",<1,-,-,-,-
+Male,"Non-Hispanic White","Observed Rates",1-4,-,-,-,-
+Male,"Non-Hispanic White","Observed Rates",5-9,-,-,-,-
+Male,"Non-Hispanic White","Observed Rates",10-14,-,-,-,-
+Male,"Non-Hispanic White","Observed Rates",15-19,-,-,-,-
+Male,"Non-Hispanic White","Observed Rates",20-24,-,-,-,-
+Male,"Non-Hispanic White","Observed Rates",25-29,-,-,-,-
+Male,"Non-Hispanic White","Observed Rates",30-34,-,-,-,-
+Male,"Non-Hispanic White","Observed Rates",35-39,0.5867,0.0784,0.4432,0.7619
+Male,"Non-Hispanic White","Observed Rates",40-44,7.3421,0.2694,6.8236,7.8896
+Male,"Non-Hispanic White","Observed Rates",45-49,30.8392,0.5241,29.8205,31.8838
+Male,"Non-Hispanic White","Observed Rates",50-54,110.0140,0.9367,108.1857,111.8654
+Male,"Non-Hispanic White","Observed Rates",55-59,234.2699,1.3746,231.5833,236.9798
+Male,"Non-Hispanic White","Observed Rates",60-64,396.4429,1.9096,392.7089,400.2035
+Male,"Non-Hispanic White","Observed Rates",65-69,594.4270,2.5658,589.4086,599.4774
+Male,"Non-Hispanic White","Observed Rates",70-74,628.6623,3.1701,622.4641,634.9068
+Male,"Non-Hispanic White","Observed Rates",75-79,541.8941,3.5358,534.9860,548.8691
+Male,"Non-Hispanic White","Observed Rates",80-84,410.0091,3.6278,402.9291,417.1822
+Male,"Non-Hispanic White","Observed Rates",85+,364.1151,3.5258,357.2370,371.0923
+Male,"Non-Hispanic White","Delay-adjusted Rates",<1,-,-,-,-
+Male,"Non-Hispanic White","Delay-adjusted Rates",1-4,-,-,-,-
+Male,"Non-Hispanic White","Delay-adjusted Rates",5-9,-,-,-,-
+Male,"Non-Hispanic White","Delay-adjusted Rates",10-14,-,-,-,-
+Male,"Non-Hispanic White","Delay-adjusted Rates",15-19,-,-,-,-
+Male,"Non-Hispanic White","Delay-adjusted Rates",20-24,-,-,-,-
+Male,"Non-Hispanic White","Delay-adjusted Rates",25-29,-,-,-,-
+Male,"Non-Hispanic White","Delay-adjusted Rates",30-34,-,-,-,-
+Male,"Non-Hispanic White","Delay-adjusted Rates",35-39,0.6012,0.0804,0.4541,0.7804
+Male,"Non-Hispanic White","Delay-adjusted Rates",40-44,7.5299,0.2763,6.9980,8.0911
+Male,"Non-Hispanic White","Delay-adjusted Rates",45-49,31.6637,0.5382,30.6175,32.7362
+Male,"Non-Hispanic White","Delay-adjusted Rates",50-54,113.0657,0.9629,111.1862,114.9687
+Male,"Non-Hispanic White","Delay-adjusted Rates",55-59,240.9786,1.4143,238.2144,243.7666
+Male,"Non-Hispanic White","Delay-adjusted Rates",60-64,407.8055,1.9648,403.9635,411.6747
+Male,"Non-Hispanic White","Delay-adjusted Rates",65-69,617.2714,2.6654,612.0583,622.5175
+Male,"Non-Hispanic White","Delay-adjusted Rates",70-74,652.8054,3.2931,646.3668,659.2916
+Male,"Non-Hispanic White","Delay-adjusted Rates",75-79,562.8590,3.6739,555.6810,570.1057
+Male,"Non-Hispanic White","Delay-adjusted Rates",80-84,425.8901,3.7698,418.5331,433.3426
+Male,"Non-Hispanic White","Delay-adjusted Rates",85+,378.2472,3.6640,371.0996,385.4964
+Male,"White (includes Hispanic)","Observed Rates",<1,-,-,-,-
+Male,"White (includes Hispanic)","Observed Rates",1-4,-,-,-,-
+Male,"White (includes Hispanic)","Observed Rates",5-9,-,-,-,-
+Male,"White (includes Hispanic)","Observed Rates",10-14,-,-,-,-
+Male,"White (includes Hispanic)","Observed Rates",15-19,-,-,-,-
+Male,"White (includes Hispanic)","Observed Rates",20-24,-,-,-,-
+Male,"White (includes Hispanic)","Observed Rates",25-29,-,-,-,-
+Male,"White (includes Hispanic)","Observed Rates",30-34,-,-,-,-
+Male,"White (includes Hispanic)","Observed Rates",35-39,0.5073,0.0606,0.3955,0.6410
+Male,"White (includes Hispanic)","Observed Rates",40-44,6.5303,0.2154,6.1149,6.9666
+Male,"White (includes Hispanic)","Observed Rates",45-49,28.0468,0.4352,27.2002,28.9130
+Male,"White (includes Hispanic)","Observed Rates",50-54,102.5358,0.8116,100.9512,104.1390
+Male,"White (includes Hispanic)","Observed Rates",55-59,224.0447,1.2319,221.6367,226.4723
+Male,"White (includes Hispanic)","Observed Rates",60-64,384.7370,1.7485,381.3176,388.1794
+Male,"White (includes Hispanic)","Observed Rates",65-69,584.6178,2.3907,579.9414,589.3224
+Male,"White (includes Hispanic)","Observed Rates",70-74,618.4715,2.9645,612.6746,624.3096
+Male,"White (includes Hispanic)","Observed Rates",75-79,537.3989,3.3222,530.9071,543.9503
+Male,"White (includes Hispanic)","Observed Rates",80-84,408.5136,3.4331,401.8122,415.2988
+Male,"White (includes Hispanic)","Observed Rates",85+,360.5317,3.3430,354.0089,367.1444
+Male,"White (includes Hispanic)","Delay-adjusted Rates",<1,-,-,-,-
+Male,"White (includes Hispanic)","Delay-adjusted Rates",1-4,-,-,-,-
+Male,"White (includes Hispanic)","Delay-adjusted Rates",5-9,-,-,-,-
+Male,"White (includes Hispanic)","Delay-adjusted Rates",10-14,-,-,-,-
+Male,"White (includes Hispanic)","Delay-adjusted Rates",15-19,-,-,-,-
+Male,"White (includes Hispanic)","Delay-adjusted Rates",20-24,-,-,-,-
+Male,"White (includes Hispanic)","Delay-adjusted Rates",25-29,-,-,-,-
+Male,"White (includes Hispanic)","Delay-adjusted Rates",30-34,-,-,-,-
+Male,"White (includes Hispanic)","Delay-adjusted Rates",35-39,0.5189,0.0620,0.4045,0.6554
+Male,"White (includes Hispanic)","Delay-adjusted Rates",40-44,6.6946,0.2209,6.2687,7.1417
+Male,"White (includes Hispanic)","Delay-adjusted Rates",45-49,28.7829,0.4467,27.9139,29.6719
+Male,"White (includes Hispanic)","Delay-adjusted Rates",50-54,105.3501,0.8340,103.7216,106.9975
+Male,"White (includes Hispanic)","Delay-adjusted Rates",55-59,230.4066,1.2671,227.9296,232.9035
+Male,"White (includes Hispanic)","Delay-adjusted Rates",60-64,395.6454,1.7985,392.1282,399.1860
+Male,"White (includes Hispanic)","Delay-adjusted Rates",65-69,607.5694,2.4854,602.7078,612.4601
+Male,"White (includes Hispanic)","Delay-adjusted Rates",70-74,642.6598,3.0815,636.6342,648.7277
+Male,"White (includes Hispanic)","Delay-adjusted Rates",75-79,558.5774,3.4542,551.8274,565.3884
+Male,"White (includes Hispanic)","Delay-adjusted Rates",80-84,424.5615,3.5692,417.5944,431.6145
+Male,"White (includes Hispanic)","Delay-adjusted Rates",85+,374.6686,3.4752,367.8879,381.5416
+
+"Data Source:"
+"SEER 21 areas [http://seer.cancer.gov/registries/terms.html] (San Francisco, Connecticut, Detroit, Hawaii, Iowa, New Mexico, Seattle, Utah, Atlanta, San Jose-Monterey, Los Angeles, Alaska Native Registry, Rural Georgia, California excluding SF/SJM/LA, Kentucky, Louisiana, New Jersey, Georgia excluding ATL/RG, Idaho, New York and Massachusetts)."
+Methodology:
+"Rates are per 100,000."
+"Race/Ethnicity Coding:"
+"Rates for American Indians/Alaska Natives only include cases that are in a Purchased/Referred Care Delivery Area (PRCDA). See  SEER Race Recode Documentation for American Indian/Alaskan Native Statistics [http://seer.cancer.gov/seerstat/variables/seer/race_ethnicity/#ai-an]."
+"Hispanics and Non-Hispanics are not mutually exclusive from whites, blacks, Asian/Pacific Islanders, and American Indians/Alaska Natives. Incidence data for Hispanics and Non-Hispanics are based on the NAACCR Hispanic Latino Identification Algorithm (NHIA) and exclude cases from the Alaska Native Registry. See SEER Race Recode Documentation for Spanish-Hispanic-Latino Ethnicity [http://seer.cancer.gov/seerstat/variables/seer/race_ethnicity/#hispanic]."
+"Cancer Site Coding:"
+"See <a href=""https://seer.cancer.gov/explorer/cancer-sites.html"">SEER*Explorer Cancer Site Definitions</a> for details about the coding used for SEER Incidence data."
+Timestamp:
+"Created by seer.cancer.gov/explorer/application.php on 09/27/2019 6:34 pm."
